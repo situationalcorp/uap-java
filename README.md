@@ -6,8 +6,9 @@ The implementation uses the shared regex patterns and overrides from regexes.yam
 
 Build:
 ------
-
-    mvn package
+ git clone https://github.com/ua-parser/uap-core
+ cd uap-java 
+ mvn package
 
 Usage:
 --------
